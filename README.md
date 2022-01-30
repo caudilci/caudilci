@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @caudilci
 - 👀 I’m interested in app dav, game dev, ML, and keyboards
-- 🌱 I’m currently learning PCB design for mechanical keyboards
+- 🌱 I’m currently learning PCB design for mechanical keyboards and working one various game ideas
 
 <!---
 - 💞️ I’m looking to collaborate on ...
