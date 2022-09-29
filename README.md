@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @caudilci
-- 👀 I’m interested in app dav, game dev, ML, and keyboards
+- 👀 I’m interested in app dev, game dev, ML, and keyboards
 - 🌱 I’m currently learning PCB design for mechanical keyboards and working on various game ideas
 
 <!---
