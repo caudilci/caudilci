@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @caudilci
-- 👀 I’m interested in app dev, game dev, ML, and keyboards
-- 🌱 I’m currently learning PCB design for mechanical keyboards and working on various game ideas
+- 👀 I’m interested in app dev, game dev, keyboards, and controllers
+- 🌱 I’m currently learning PCB design for custom video game controllers and working on various game ideas
 
 <!---
 - 💞️ I’m looking to collaborate on ...
